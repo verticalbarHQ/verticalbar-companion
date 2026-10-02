@@ -1,10 +1,12 @@
 # Vertical Bar Companion
 
-Vertical Bar Companion is a desktop app that connects a NetSuite account to CrossCheck. You sign in
-to CrossCheck and to NetSuite inside the app, choose the account and role, and it sets up the
-connection and the CrossCheck SuiteApp for you.
+Vertical Bar Companion is a desktop app that connects a NetSuite account to
+[CrossCheck](https://crosscheck.vertical.bar). You sign in to CrossCheck and to NetSuite inside the
+app and choose the account and role. The app then sets up the connection and the CrossCheck SuiteApp
+for you.
 
-This repository holds the app's releases only.
+This repository holds the app's releases only. CrossCheck itself is at
+[crosscheck.vertical.bar](https://crosscheck.vertical.bar).
 
 ## Download
 
