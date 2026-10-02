@@ -13,8 +13,9 @@ Get the latest version from [Releases](https://github.com/verticalbarHQ/vertical
 | System | File |
 | --- | --- |
 | macOS (Apple silicon) | `VerticalBarCompanion-mac-arm64.dmg` |
-| macOS (Intel) | `VerticalBarCompanion-mac-x64.dmg` |
 | Windows 10/11 (x64) | `VerticalBarCompanion-win-x64-setup.exe` |
+
+Intel Macs are not supported.
 
 The app tells you when a newer version is available.
 
